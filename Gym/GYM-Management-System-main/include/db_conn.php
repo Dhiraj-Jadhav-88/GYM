@@ -1,7 +1,7 @@
 <?php
 $host     = "localhost"; 
 $username = "root"; 
-$password = "Dh@sh140271"; 
+$password = ""; 
 $db_name  = "gymsysdb"; 
 
 
